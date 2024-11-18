@@ -12,10 +12,3 @@ I've handled all that parts on smart contract to enhance the security and availa
 - Added some launch phases
 There's some phases to launch a token like `Presale`.
 If the users want to snipe a token, they can bid for the token in `Presale` phase before `Launch`.
-
-- Raydium/Meteora
-Token launchers can migrate their tokens to Raydium or Migrate as their wish after the curve is completed.
-
-Telegram: https://t.me/microgift28
-
-Discord: https://discord.com/users/1074514238325927956
